@@ -23,5 +23,5 @@ if $DEBUG; then
 	echo ""
 fi
 
-./main.sh
+/code/main.sh
 
